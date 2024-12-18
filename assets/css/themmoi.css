@@ -1,0 +1,12 @@
+
+.them-moi {
+    border: 2px solid #007BFF;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+    background-color: #9dd9ed;
+    color: aliceblue;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
